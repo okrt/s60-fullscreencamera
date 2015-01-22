@@ -1,0 +1,1 @@
+{'variable9': '0', 'variable8': '.mp4', 'variable1': 'FullScreen', 'variable3': 'e:\\Images\\', 'variable2': 'metin', 'variable5': u'FullScreen', 'variable4': '.jpg', 'variable7': u'e:\\Videos\\', 'variable6': 'tarih', 'variable11': 0, 'variable10': 0, 'variable12': 1}
